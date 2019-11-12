@@ -1,14 +1,14 @@
-# Sign++网络验证系统
+# 土味网络验证系统
 
-![logo](http://img0.ph.126.net/uUl-CxZ3kzPRi5U6EWuPXQ==/6632043032514045099.png)
 
 ## 开源原因
 
-这是我个人开发的php网络验证系统，原本是想等用户多了寻找盈利模式的，无奈服务器费用积少成多而且用户一直不多，索性就把它开源了。
+抄github其他项目，其他项目停止维护了
+本项目地址：https://www.twgcs.xyz/
 
 ## 这个东西是干嘛的？
 
-用途是给易语言和按键精灵所写的游戏脚本的进行收费管理，还有我配套开发的客户端dll动态链接库，用于脚本集成，[客户端demo下载](http://signxx.ys168.com/)。
+用途是给易语言和按键精灵所写的游戏脚本的进行收费管理，还有我配套开发的客户端dll动态链接库，用于脚本集成，
 
 ## 详细功能介绍
 
@@ -99,17 +99,5 @@
 
 ```
 
-## 后台截图
 
-![logo](http://img2.ph.126.net/Kck9QNwRtkY6ud670oG2SQ==/6631977061816373810.png)
-
-![logo](http://img2.ph.126.net/mSt-J1V0yuVqpuei8opRWg==/6632018843258224193.png)
-
-![logo](http://img2.ph.126.net/OfltlQQWUZj6JqLsbsE58g==/6631838523351277550.png)
-
-![logo](http://img0.ph.126.net/MOqEiy5dGMV_iPcDcYkUqA==/6632093610048917631.png)
-
-![logo](http://img2.ph.126.net/gk9hqTsF3zu8hi3Kxd2qYw==/6632080415909383718.png)
-
-![logo](http://img0.ph.126.net/Z3yMMvC4sUUpmP2N_MJFcQ==/6631926484281493275.png)
 #tuwei 
