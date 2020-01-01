@@ -1,7 +1,8 @@
 # 土味网络验证系统
 
+##php, des加解密,rsa非对称加密，心跳验证
 
-## js验证例子已经完成，验证测试例子网址：https://gitblog.koala9527.xyz/tw_js/RSA.html
+## js对接验证例子已经完成，验证测试例子网址：https://gitblog.koala9527.xyz/tw_js/RSA.html
 ## 有兴趣欢迎加群：182440207
 ## 开源原因
 
