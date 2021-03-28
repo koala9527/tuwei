@@ -5,7 +5,7 @@
 ## js对接验证例子已经完成，验证测试例子网址：https://gitblog.koala9527.xyz/tw_js/RSA.html
 ## 有兴趣欢迎加群：182440207
 ## 开源原因
-准备开发lua或者python对接的例子，暂时没人催就不写了
+准备开发lua或者python对接的例子，lua的rsa加解密效率太慢了
 二次开发github其他项目，其他项目停止维护了
 
 本项目地址：https://tw.twgcs.xyz/
