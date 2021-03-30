@@ -3,9 +3,8 @@
 ## php, des加解密,rsa非对称加密，心跳验证
 
 ## js对接验证例子已经完成，验证测试例子网址：https://gitblog.koala9527.xyz/tw_js/RSA.html
-## 有兴趣欢迎加群：182440207
+## 想要用lua对接有兴趣欢迎加群：182440207，问问群里的大佬，别问群主
 ## 开源原因
-准备开发lua或者python对接的例子，lua的rsa加解密效率太慢了
 二次开发github其他项目，其他项目停止维护了
 
 本项目地址：https://tw.twgcs.xyz/
