@@ -2,7 +2,7 @@
 
 ## php, des加解密,rsa非对称加密，心跳验证
 
-## js对接验证例子已经完成，验证测试例子网址：https://gitblog.koala9527.xyz/tw_js/RSA.html
+## js对接验证例子已经完成，验证测试例子网址：https://github.com/koala9527/tw_js  
 ## 开源原因
 二次开发github其他项目，其他项目停止维护了
 
